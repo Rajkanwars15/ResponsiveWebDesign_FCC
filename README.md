@@ -34,7 +34,7 @@ None
 
 ## 👨‍💻 Authors
 
-- [![Static Badge](https://img.shields.io/badge/Rajkanwars15-yellow?logo=GitHub&link=https%3A%2F%2Fgithub.com%2FRajkanwars15)
+[![Static Badge](https://img.shields.io/badge/Rajkanwars15-yellow?logo=GitHub&link=https%3A%2F%2Fgithub.com%2FRajkanwars15)
   ](https://www.github.com/rajkanwars15)
 
 ## ℹ️ Status
